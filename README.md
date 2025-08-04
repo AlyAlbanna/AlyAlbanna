@@ -1,69 +1,18 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlyAlbanna.AlyAlbanna" />
+<h1 align="center">Hi, I'm Aly Albanna</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Aly+Albanna!;DevOps+Engineer+from+Egypt;Welcome+to+my+GitHub!&center=true&size=30">
-  </a>
-</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alyalbanna&label=Profile%20views&color=0e75b6&style=flat" alt="alyalbanna" /> </p>
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/your-linkedin" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="mailto:your.email@example.com" title="Email"><img width="22" src="images/email.svg"> Email</a></code>
-  <code><a href="https://your-personal-site.com" title="Website"><img width="22" src="images/web.svg"> Website</a></code>
-</h5>
+- 📔 I’m currently learning **RedHat Administration 1&2 , Python**
 
-<p align="center">
-  I'm Aly Albanna, a DevOps Engineer with a strong background in .NET development.
-  <br><br>
-  🧠 Passionate about automation, CI/CD pipelines, cloud infrastructure, and scalable deployments.<br>
-  💻 Former .NET Developer with experience building enterprise applications.<br>
-  🌐 Currently exploring infrastructure as code, Kubernetes, and cloud-native solutions.<br>
-  🚀 Always learning and pushing boundaries in DevOps and modern software practices.<br>
-  📫 Reach out to me anytime — I’m happy to connect and collaborate.
+- 📫 How to reach me **alyalbanna@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aly albanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aly albanna" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title=".NET" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="Azure" height="25" src="images/azure.svg"></code>
-  <code><img title="Docker" height="25" src="images/docker.svg"></code>
-  <code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
-  <code><img title="Linux" height="25" src="images/linux.svg"></code>
-  <code><img title="GitHub Actions" height="25" src="images/githubactions.svg"></code>
-  <code><img title="Terraform" height="25" src="images/terraform.svg"></code>
-  <code><img title="Jenkins" height="25" src="images/jenkins.svg"></code>
-  <code><img title="CI/CD" height="25" src="images/cicd.svg"></code>
-  <code><img title="SQL Server" height="25" src="images/sqlserver.svg"></code>
-  <code><img title="Bash" height="25" src="images/bash.svg"></code>
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AlyAlbanna&show_icons=true&theme=react&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlyAlbanna&layout=compact&theme=react&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlyAlbanna&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
----
-
-<h2 align="center">📂 Featured Projects</h2>
-<p align="center">
-  <a href="https://github.com/AlyAlbanna/Your-Project-1"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AlyAlbanna&repo=Your-Project-1&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a href="https://github.com/AlyAlbanna/Your-Project-2"><img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=AlyAlbanna&repo=Your-Project-2&theme=react&border_color=61dafb&border_radius=10"></a>
-</p>
-
-<h4 align="center">
-  <a href="https://github.com/AlyAlbanna?tab=repositories">🔍 Explore More Projects</a>
-</h4>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alyalbanna&" alt="alyalbanna" /></p>
